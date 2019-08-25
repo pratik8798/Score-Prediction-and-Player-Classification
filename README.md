@@ -20,3 +20,7 @@ Used Web scraping techniques to collect batting and bowling data of all teams wh
   <li>Player_data.py : Web scraping to collect player data from espncricinfo.com.</li>
   <li>Score_Prediction.py : Predicts score based on the features like runs scored, run rate etc.</li>
 </ol>
+
+
+For data related to Score Prediction, used dataset provided by "Score Prediction and Player Classification Model in the Game of Cricket Using Machine Learning", a paper by Sonu Kumar, Sneha Roy.
+<a href="https://www.ijser.org/researchpaper/Score-Prediction-and-Player-Classification-Model-in-the-Game-of-Cricket-Using-Machine-Learning.pdf">Paper</a>
